@@ -278,7 +278,7 @@ body {
 /*---------------------_Code für gallery */
 
 body {
-  margin: 20px;
+  /*margin: 20px;*/
   padding: 0;
   text-align: center;
 }
@@ -412,6 +412,14 @@ body {
     top: 50%;
   }
 }
+
+
+/*---------jotform---------------------------*/
+
+.branding21.formFooter {
+  display: none !important ;
+}
+
 
 
 
