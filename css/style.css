@@ -252,31 +252,7 @@ body {
 }
 
 
-/* responsive */
-@media screen and (max-width : 768px) {
 
-  .site-title{
-    margin-top: 50%;
-    margin-bottom: 25%;
-  }
-
-}
-
-/*    .section-1 .card {
-        width: 14rem;
-    }
-    .section-1 .card-image-top{
-        height: 10rem;
-    }
-    .section-1 .container {
-        padding-left: 0%;
-        padding-right: 0%;
-    }
-    .section-4 .flex-row {
-        padding-left: 0%;
-        padding-right: 0%;
-    }*/
-}
 
 
 
@@ -402,6 +378,10 @@ body {
   .h-1,.h-2,.h-3,.h-4,.h-5,.h-6{
   grid-row: span 3;
   }
+
+  h1 {
+    font-size: 1.5rem;
+}
 }
 
 
@@ -420,16 +400,39 @@ body {
 }
 
 
-/*---------jotform---------------------------*/
 
-.branding21.formFooter {
-  display: none !important ;
+
+
+
+
+
+
+
+/* responsive ------------------------------------------- */
+@media screen and (max-width : 768px) {
+
+  .site-title{
+    margin-top: 50%;
+    margin-bottom: 25%;
+  }
+
 }
 
-
-
-
-
+/*    .section-1 .card {
+        width: 14rem;
+    }
+    .section-1 .card-image-top{
+        height: 10rem;
+    }
+    .section-1 .container {
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+    .section-4 .flex-row {
+        padding-left: 0%;
+        padding-right: 0%;
+    }*/
+}
 
 
 
@@ -522,3 +525,18 @@ body {
     }
 */
 }
+
+
+
+
+
+
+
+
+
+/*---------jotform---------------------------*/
+
+.branding21.formFooter {
+  display: none !important ;
+}
+
