@@ -4,7 +4,7 @@
   "description": "Responsive Bootstrap Landing Page web app",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d jn-eisstrahlen-easy"
+    "deploy": "gh-pages -d JN-trockeneisstrahlen"
   },
   "repository": {
     "type": "git",
