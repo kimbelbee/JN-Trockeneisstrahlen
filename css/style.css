@@ -56,6 +56,14 @@ body {
     background-size: cover;
     background-position: center;
 
+  }
+
+.site-content2 {
+    background-image: url('../images/Janobenschwarzweiß.png');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
 }
 .site-title{
     margin-top: 30%;
